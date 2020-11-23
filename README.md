@@ -14,6 +14,7 @@ Write a solution, but step by step
 First, you need to setup a project quickly so we can write unit tests. Create a function called getPrice and make it available in your tests. The function will take an array as parameter:
 
 getPrice([1]) // get the price for one book
+
 getPrice([1, 3, 4, 4]) // get the price for four books (once the first, once the third and twice the fourth)
 Your job is to follow this pattern:
 
